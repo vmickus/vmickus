@@ -1,16 +1,20 @@
-### Hi there 👋
+## Vitor's Profile
 
-<!--
-**vmickus/vmickus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Backend Software Engineer 
+- Computing Engineer Ms.C.
 
-Here are some ideas to get you started:
+## Skills 🧠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Golang [3+ years] building microservices
+- Java [4+ years] backend and Android
+- Python [3+ years]
+- Building microservices [4+ years]
+- SQL and NoSQL databases [7+ years]
+- GCP and AWS cloud [4+ years]
+
+## Background
+
+- Currently working at Mercado Libre [since 2022]
+- Backend Software Engineer at Ifood [2 years]
+- Computer Engineer Master Science [2 years]
+- Mobile developer at MC1 [4 years]
