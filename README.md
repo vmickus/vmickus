@@ -1,4 +1,4 @@
-## Vitor's Profile
+## Vitor's Profile 
 
 - Backend Software Engineer 
 - Computing Engineer Ms.C.
@@ -12,7 +12,7 @@
 - SQL and NoSQL databases [7+ years]
 - GCP and AWS cloud [4+ years]
 
-## Background
+## Background  💻
 
 - Currently working at Mercado Libre [since 2022]
 - Backend Software Engineer at Ifood [2 years]
