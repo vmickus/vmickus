@@ -7,7 +7,7 @@
 
 ## Skills 🧠
 
-- Golang [3+ years] building microservices
+- Golang [4+ years] building microservices
 - Java [4+ years] backend and Android
 - Python [3+ years]
 - Building microservices [4+ years]
