@@ -19,4 +19,4 @@
 - Currently working at Mercado Libre [since 2022]
 - Backend Software Engineer at Ifood [2 years]
 - Computer Engineer Master Science [2 years]
-- Mobile developer at MC1 [4 years]
+- Developer at MC1 [4 years]
