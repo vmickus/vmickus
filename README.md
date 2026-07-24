@@ -7,12 +7,12 @@
 
 ## Skills 🧠
 
-- Golang [4+ years] building microservices
+- Golang [5+ years] building microservices
 - Java [4+ years] backend and Android
-- Python [3+ years]
-- Building microservices [4+ years]
-- SQL and NoSQL databases [7+ years]
-- GCP and AWS cloud [4+ years]
+- Python [5+ years]
+- Building microservices [5+ years]
+- SQL and NoSQL databases [8+ years]
+- GCP and AWS cloud [5+ years]
 
 ## Background  💻
 
